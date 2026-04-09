@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\snskeGame\bin\Debug\net10.0\snskeGame.exe
+C:\Users\admin\Desktop\snskeGame\bin\Debug\net10.0\snskeGame.deps.json
+C:\Users\admin\Desktop\snskeGame\bin\Debug\net10.0\snskeGame.runtimeconfig.json
+C:\Users\admin\Desktop\snskeGame\bin\Debug\net10.0\snskeGame.dll
+C:\Users\admin\Desktop\snskeGame\bin\Debug\net10.0\snskeGame.pdb
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.AssemblyInfo.cs
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.sourcelink.json
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.dll
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\refint\snskeGame.dll
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.pdb
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\snskeGame.genruntimeconfig.cache
+C:\Users\admin\Desktop\snskeGame\obj\Debug\net10.0\ref\snskeGame.dll
